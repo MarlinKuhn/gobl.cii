@@ -15,6 +15,8 @@ require (
 	gitlab.com/flimzy/testy v0.14.0
 )
 
+replace github.com/nbio/xml v0.0.0-20241028124227-eac89c735a80 => github.com/MarlinKuhn/xml v0.0.1
+
 require (
 	cloud.google.com/go v0.118.0 // indirect
 	github.com/Masterminds/semver/v3 v3.3.1 // indirect
