@@ -62,7 +62,7 @@
           "name": "Festpreis",
           "description": "Neues DSL Portfolio 2016",
           "price": "12122.5900",
-          "unit": "C62"
+          "unit": "one"
         },
         "sum": "12122.5900",
         "taxes": [
@@ -80,7 +80,7 @@
           "ref": "832",
           "name": "Abzug",
           "price": "606.1300",
-          "unit": "C62"
+          "unit": "one"
         },
         "sum": "-606.1300",
         "taxes": [
@@ -98,7 +98,7 @@
           "ref": "870",
           "name": "zzgl. ",
           "price": "1.5000",
-          "unit": "C62"
+          "unit": "one"
         },
         "sum": "1.5000",
         "taxes": [

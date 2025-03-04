@@ -270,6 +270,11 @@
       }
     ],
     "ordering": {
+      "contracts": [
+        {
+          "code": "Contract321"
+        }
+      ],
       "identities": [
         {
           "key": "ref-paper",
@@ -280,6 +285,11 @@
         "start": "2013-06-01",
         "end": "2013-06-30"
       },
+      "purchases": [
+        {
+          "code": "123"
+        }
+      ],
       "seller": {
         "name": "Salescompany ltd.",
         "tax_id": {

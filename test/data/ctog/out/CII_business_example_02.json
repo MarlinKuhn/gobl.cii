@@ -61,7 +61,7 @@
         "item": {
           "name": "BPW21",
           "price": "1.2605",
-          "unit": "C62"
+          "unit": "one"
         },
         "sum": "1.2605",
         "taxes": [
@@ -78,7 +78,7 @@
         "item": {
           "name": "Poti 100k",
           "price": "1.2605",
-          "unit": "C62"
+          "unit": "one"
         },
         "sum": "1.2605",
         "taxes": [
@@ -95,7 +95,7 @@
         "item": {
           "name": "LCD Display 3.5",
           "price": "7.4790",
-          "unit": "C62"
+          "unit": "one"
         },
         "sum": "7.4790",
         "taxes": [
@@ -121,6 +121,11 @@
       }
     ],
     "ordering": {
+      "contracts": [
+        {
+          "code": "SUBSCR571"
+        }
+      ],
       "period": {
         "start": "2013-01-01",
         "end": "2013-04-01"
